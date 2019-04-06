@@ -1,2 +1,3 @@
-# blog
-Love living, coding, exercise.Tomorrow will be better. 
+# 簡介
+  會開始寫 blog 是想開始記錄學習成長，在嘗試學習前端技術時留下軌跡。
+
